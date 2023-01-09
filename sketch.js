@@ -81,7 +81,7 @@ function setup() {
 	for (var i = 0; i < 12; i++) {
 		push();
 		if (i < hour() % 12){
-		  fill(c2);
+		  fill(c6);
 		} else{
 		  fill(c3);
 		} 
